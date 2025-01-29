@@ -1,0 +1,32 @@
+
+@media (min-width:1400px) {
+    .navbar {
+        width: 100%;
+    }
+}
+
+@media (min-width:1200px) and (max-width:1399px) {
+    .navbar {
+        width: 100%;
+    }
+    .navbar .nav-head{
+        width: calc(100% -10%);
+    }
+    .navbar .nav-main{
+        width: calc(100% - 20%);
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px){
+
+}
+@media (min-width:768px) and (max-width:991px){
+
+}
+@media (min-width:576px) and (max-width:767px){
+
+}
+@media (min-width:0px) and (max-width:575px){
+
+}
+
